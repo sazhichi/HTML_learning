@@ -1,0 +1,17 @@
+@charset "UTF-8";
+p{color: red;}
+
+a[href*="web"]{color:red;}
+a:hover{color: blue;}
+
+.cartarea:{
+    border-top: 1px dotted #ccc;
+    text-align: center;
+}
+
+
+
+.price {
+    color : #C00;
+    font-size: 2em;
+}
